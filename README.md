@@ -172,42 +172,36 @@ Redshift's JSON COPY requires a `jsonpaths` manifest file mapping every nested J
 ---
  
 ## Analytical Findings (Premier League Round 38, 2024)
- 
-> **Note**: replace these placeholders with your actual Redshift query results before publishing.
- 
+  
 ### xG vs Actual Goals — Who Was Lucky/Unlucky?
  
 | Team | xG | Actual Goals | Difference |
 |---|---|---|---|
-| [fill in] | [fill in] | [fill in] | [fill in] |
- 
-*[Your analysis here — e.g. "X had an xG of 2.4 but scored 0, making them the most statistically unlucky team on the final matchday"]*
+| West Ham United | 1.08 | 3 | -1.92 |
  
 ### Possession vs Outcome
  
 | Home Team | Away Team | Home Possession | Away Possession | Result |
 |---|---|---|---|---|
-| [fill in] | [fill in] | [fill in] | [fill in] | [fill in] |
- 
-*[Your analysis here — e.g. "X of 10 matches were won by the team with less possession, challenging the common assumption that possession dominance predicts victory"]*
+| Bournemouth | Leicester | 63 | 37 | home_win |
  
 ### Top Performers by Rating
  
 | Player | Team | Rating | Goals | Assists | Minutes |
 |---|---|---|---|---|---|
-| [fill in] | [fill in] | [fill in] | [fill in] | [fill in] | [fill in] |
+| Bruno Fernandes | Manchester United | 9.2 | 0 | 1 | 90 |
  
 ### Goal Involvement Leaders
  
 | Player | Team | Goals | Assists | Total Involvement |
 |---|---|---|---|---|
-| [fill in] | [fill in] | [fill in] | [fill in] | [fill in] |
+| Jarrod Bowen | West Ham United | 1 | 1 | 2 |
  
 ### Formation Analysis
  
 | Formation | Teams Using | Home | Away |
 |---|---|---|---|
-| [fill in] | [fill in] | [fill in] | [fill in] |
+| 4-2-3-1 | 11 | 4 | 7 |
  
 ---
  
